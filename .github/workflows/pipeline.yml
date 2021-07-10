@@ -53,7 +53,7 @@ jobs:
     # associated with the app. If Test Suite fails, the app should be Rolled Back 
     # to clean up the persistent Test environment. 
     needs: build
-    name: Run ATF in Test
+    name: My Quick Start Tests
     runs-on: ubuntu-latest
     # Below line can be used to set conditionals for modifying your pipeline as needed.
     # if: ${{ github.event_name == 'pull_request'}}
