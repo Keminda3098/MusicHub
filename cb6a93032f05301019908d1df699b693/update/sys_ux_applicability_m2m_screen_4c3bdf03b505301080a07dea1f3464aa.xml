@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">403bdf03de0530102a3ea229e1aad0ab</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">483bdf03ae053010565ff5513dade7bb</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-04 16:14:11</sys_created_on>
+        <sys_id>4c3bdf03b505301080a07dea1f3464aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Music Hub" source="x_160096_music_hub">cb6a93032f05301019908d1df699b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Music Hub">cb6a93032f05301019908d1df699b693</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_4c3bdf03b505301080a07dea1f3464aa</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-04 16:14:11</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

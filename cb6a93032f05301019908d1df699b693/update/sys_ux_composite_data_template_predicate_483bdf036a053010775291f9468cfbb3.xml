@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_req_item">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,cat_item.picture,short_description,price,recurring_price,recurring_frequency,state,number,cat_item.name</field_list>
+        <name>My Requests - Requested item predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">883bdf03410530104b0edc5782ac1cb2</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-04 16:14:13</sys_created_on>
+        <sys_id>483bdf036a053010775291f9468cfbb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Requests - Requested item predicate</sys_name>
+        <sys_package display_value="Music Hub" source="x_160096_music_hub">cb6a93032f05301019908d1df699b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Music Hub">cb6a93032f05301019908d1df699b693</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_483bdf036a053010775291f9468cfbb3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-04 16:14:13</sys_updated_on>
+        <table>sc_req_item</table>
+        <ux_template display_value="Custom Portal Landing - My Requests template">8c3bdf03c5053010f8f1758e764246b2</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Music Hub Config">b32bdf032f05301019908d1df699b68e</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Security and login</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Settings Page">c83bdf03f105301050ecf5bd025f5eab</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4vef00013g8ybmju8dpb</route_type>
+        <screen_type display_value="Security and login">083bdf034805301021c5026c2adb67ac</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2021-07-04 16:14:12</sys_created_on>
+        <sys_id>483bdf035805301012ffa3b766fb47ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security and login</sys_name>
+        <sys_package display_value="Music Hub" source="x_160096_music_hub">cb6a93032f05301019908d1df699b693</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Music Hub">cb6a93032f05301019908d1df699b693</sys_scope>
+        <sys_update_name>sys_ux_app_route_483bdf035805301012ffa3b766fb47ac</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-07-04 16:14:12</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=483bdf035805301012ffa3b766fb47ac"/>
+</record_update>
