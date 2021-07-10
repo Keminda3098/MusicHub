@@ -23,7 +23,7 @@ jobs:
         env:
           snowUsername: admin
           snowPassword: Aquarius@4444
-          snowSourceInstance: dev79137.service-now.com
+          snowSourceInstance: https://dev79137.service-now.com/
           appSysID: cb6a93032f05301019908d1df699b693
 
       - name: ServiceNow CI/CD Publish App
@@ -37,7 +37,7 @@ jobs:
         env:
           snowUsername: admin
           snowPassword: Aquarius@4444
-          snowSourceInstance: dev79137.service-now.com
+          snowSourceInstance: https://dev79137.service-now.com/
           appSysID: cb6a93032f05301019908d1df699b693
           
     # This is required to pass the version number output from Publish App 
