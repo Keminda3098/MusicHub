@@ -22,7 +22,7 @@ jobs:
         uses: ServiceNow/sncicd-apply-changes@1.0.0
         env:
           snowUsername: admin
-          nowPassword: Aquarius@4444
+          snowPassword: Aquarius@4444
           nowSourceInstance: dev79137.service-now.com
           appSysID: cb6a93032f05301019908d1df699b693
 
@@ -35,8 +35,8 @@ jobs:
           # Optional, add +X to version number. Default: 1 
           # incrementBy: X
         env:
-          nowUsername: admin
-          nowPassword: Aquarius@4444
+          snowUsername: admin
+          snowPassword: Aquarius@4444
           nowSourceInstance: dev79137.service-now.com
           appSysID: cb6a93032f05301019908d1df699b693
           
