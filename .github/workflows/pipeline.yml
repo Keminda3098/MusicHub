@@ -21,7 +21,7 @@ jobs:
       - name: ServiceNow CI/CD Apply Changes
         uses: ServiceNow/sncicd-apply-changes@1.0.0
         env:
-          nowUsername: admin
+          snowUsername: admin
           nowPassword: Aquarius@4444
           nowSourceInstance: dev79137.service-now.com
           appSysID: cb6a93032f05301019908d1df699b693
