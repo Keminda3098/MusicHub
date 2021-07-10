@@ -1,4 +1,4 @@
-name: ServiceNow GitHub Actions Demo
+name: MusicHub
 
 on:
   pull_request:
